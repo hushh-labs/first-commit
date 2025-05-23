@@ -12,3 +12,6 @@ This is my first repository with Hushh.ai 🤩
 🎯 Building the PKM UI and backend from scratch to ready-to-use
 🎯 Building User Trust in the Hushh Wallet App
 
+## Adding a fun widget because why not:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Hushh.ai)](https://git.io/typing-svg)
+
